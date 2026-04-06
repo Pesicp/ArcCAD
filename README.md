@@ -152,7 +152,26 @@ This fork transforms the original jsketcher with significant UI/UX improvements,
 
 ## Quick Start
 
+### Download & Run (Recommended)
+
+1. Go to the [**Releases page**](https://github.com/Pesicp/ArcCAD/releases)
+2. Download the latest release zip file
+3. Extract the zip to any folder
+4. Open a terminal in that folder and run:
+
+```bash
+npm start
+```
+
+5. Open http://localhost:3000 in your browser
+
+> **Note:** The first run will prompt to install `serve`. Type `y` and press Enter.
+
+---
+
 ### Development
+
+If you want to build from source:
 
 ```bash
 npm install
